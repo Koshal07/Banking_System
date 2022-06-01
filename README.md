@@ -1,0 +1,1 @@
+It is a program that keeps the track of a person’s bank account. The system allows the customer to create account, deposit/withdraw money from their account, and examine reports for all of their accounts.
